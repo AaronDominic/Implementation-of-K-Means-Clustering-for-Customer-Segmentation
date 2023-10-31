@@ -25,8 +25,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Aaron Dominic
 RegisterNumber: 212221040001
-```
-```
 #import packages
 import pandas as pd
 import matplotlib.pyplot as plt
